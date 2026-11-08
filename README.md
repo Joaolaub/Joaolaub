@@ -2,6 +2,8 @@
 
 **`Desenvolvedor Back-end`**
 
+### Sobre Mim/About Me
+
 Me chamo João Gabriel Marques Laub, tenho 18 anos e sou de Fortaleza, Ceará. Atualmente, estou cursando Ciências da Computação na UNIFOR (Universidade de Fortaleza)./My name is João Gabriel Marques Laub, I am 18 years old, and I am from Fortaleza, Ceará. I am currently pursuing a degree in Computer Science at UNIFOR (University of Fortaleza).
 
 
