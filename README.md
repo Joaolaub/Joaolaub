@@ -1,13 +1,13 @@
-# Bem vindo a minha página!/Welcome to my page!
+# Bem vindo a minha página! | Welcome to my page!
 
 **`Aspirante a Desenvolvedor Fullstack/Aspiring Fullstack Developer`**
 
-### Sobre Mim/About Me
+### Sobre Mim | About Me
 
 Me chamo João Gabriel, tenho 18 anos e sou de Fortaleza, Ceará. Atualmente, estou cursando Ciências da Computação na UNIFOR (Universidade de Fortaleza)./My name is João Gabriel, I am 18 years old, and I am from Fortaleza, Ceará. I am currently pursuing a degree in Computer Science at UNIFOR (University of Fortaleza).
 
 
-### Linguagens/Languages
+### Linguagens | Languages
 
 <img 
     align="left" 
