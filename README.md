@@ -4,7 +4,7 @@
 
 Me chamo João Gabriel Marques Laub, tenho 18 anos e sou de Fortaleza, Ceará. Atualmente, estou cursando Ciências da Computação na UNIFOR (Universidade de Fortaleza).
 
-### 🤖 Linguagens e Tecnologias
+### Linguagens
 
 <img 
     align="left" 
@@ -30,6 +30,3 @@ Me chamo João Gabriel Marques Laub, tenho 18 anos e sou de Fortaleza, Ceará. A
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
-
-
-### 📊 Estatísticas
