@@ -1,6 +1,6 @@
 # Bem vindo a minha página!/Welcome to my page!
 
-**`Desenvolvedor Back-end`**
+**`Aspirante a Desenvolvedor Fullstack/Aspiring Fullstack Developer`**
 
 ### Sobre Mim/About Me
 
